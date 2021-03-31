@@ -31,8 +31,8 @@ def MainCHandler():
 
 if __name__=="__main__":
 
-	app.run(debug=True, host="0.0.0.0", port=80)
-	# app.run(debug=True, host="0.0.0.0", port=4646)
+	# app.run(debug=True, host="0.0.0.0", port=80)
+	app.run(debug=True, host="0.0.0.0", port=6060)
 
 
 
